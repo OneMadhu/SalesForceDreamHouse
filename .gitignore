@@ -5,3 +5,5 @@
 .settings
 node_modules
 .idea
+.vim-force.com
+.vscode
